@@ -12,7 +12,7 @@ Automatic LP
 Earn Passive Income
 =>  3% of each transaction is distributed to the holders automatically.
 Marketing & Team
-=>3% of each transaction is converted to BNB and used for marketing and development.
+=>  3% of each transaction is converted to BNB and used for marketing and development.
 
 Website: https://coin-oracle.io
 
